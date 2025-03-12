@@ -1,0 +1,37 @@
+body {
+    height: 700px;
+    width: 900px;
+}
+
+header {
+    background-color: blue;
+    text-align: center;
+    height: 100px;
+}
+
+footer {
+    background-color: dimgray;
+    text-align: center;
+    width: 900px;
+    height: 200px;
+
+    position: absolute;
+    top: 520px;
+    left: 8px;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    width: 80%;
+    background-color: lightgray;
+    float: left;
+}
+
+aside {
+    height: 400px;
+    width: 20%;
+    text-align: center;
+    background-color: deeppink;
+    float: left;
+}
