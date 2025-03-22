@@ -1,0 +1,10 @@
+.header-glavno {
+    background-color: deepskyblue;
+    border: 1px black solid;
+    height: 50px;
+}
+
+ol {
+    display: flex;
+    list-style: none;
+}
