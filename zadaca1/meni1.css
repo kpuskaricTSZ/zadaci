@@ -1,0 +1,26 @@
+header {
+    background-color: #202020;
+    padding: 25px;
+    display: flex;
+}
+
+ol {
+    display: flex;
+    list-style: none;
+    vertical-align: center;
+}
+
+li {
+    margin-right: 50px;
+}
+
+.text {
+    position: relative;
+    left: 50px;
+    bottom: 35px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
