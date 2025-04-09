@@ -1,0 +1,59 @@
+body {
+    background: #D3CA79;
+}
+
+header {
+    background: #E83F25;
+    display: flex;
+}
+
+main {
+    background: #EA7300;
+}
+
+footer {
+    background-color: #A62C2C;
+    padding: 25px 0;
+}
+
+.imeFirme {
+    font-size: 50px;
+    font-family: "Snell Roundhand", cursive;
+}
+
+#logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.naslov {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+ol {
+    list-style: none;
+    display: flex;
+}
+
+#tamnaCokoSlika {
+    position: absolute;
+    right: 50px;
+    top: 500px;
+
+    border: 2px groove white;
+}
+
+.podebljaniTekst {
+    font-weight: bold;
+}
+
+.linkoviFoot {
+    border: 2px groove lightgray;
+    text-decoration: none;
+    color: lightgray;
+    font-size: 30px;
+    font-weight: bolder;
+}
